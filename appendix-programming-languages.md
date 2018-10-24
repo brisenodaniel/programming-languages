@@ -7,7 +7,7 @@
 - [Solidity](https://github.com/cberardi4/Programming-Languages) (Christina Berardi, Ben Wasserman)
 - Go (Grayson Berman, Parker Janke)
 - [Swift](https://github.com/schwa184/Swift-Blog) (Majid Aziz, Matthew Schwab, Alfonso Castanos)
-- Haskell (Daniel Briseno, Colton Gering)
+- [Haskell](https://github.com/brisenodaniel/Prgrm_Lang_Project) (Daniel Briseno, Colton Gering)
 - IBM Q (Sam Kagan, Trevor Kling) 
 - Fortran (Akash Arora, ... somebody wants to join?)
 - Javascript/JQuery (Theo Balestra, Rielle Dizon, Monique Namsinh)
